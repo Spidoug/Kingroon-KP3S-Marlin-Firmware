@@ -1,0 +1,13 @@
+# V1 generated build artifacts
+firmware/generated/
+firmware/cache/
+firmware/.build_env/
+firmware/firmware_output/
+firmware/BUILD.log
+**/__pycache__/
+**/*.pyc
+*.bin
+*.elf
+*.map
+.DS_Store
+Thumbs.db
