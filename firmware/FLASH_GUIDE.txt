@@ -1,9 +1,0 @@
-KINGROON KP3S MARLIN FIRMWARE V1 - FLASH GUIDE
-
-1. Build the firmware with BUILD_FIRMWARE.bat.
-2. Copy firmware_output\FLASH_KP3S\Robin_nano.bin to the root of a FAT32 microSD card.
-3. Power the printer off.
-4. Insert the card and power the printer on.
-5. Do not interrupt power while the board is flashing.
-
-After a successful flash the bootloader may rename the file to ROBIN_NANO.CUR.
